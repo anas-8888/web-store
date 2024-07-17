@@ -1,0 +1,22 @@
+
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url("za.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.registre-link p a{
+    color: bisque;
+    text-decoration: none;
+    font-weight: 600;
+}
+.registre-link p a:hover{
+    text-decoration: underline;
+}
+.z{
+    color: white;
+}
